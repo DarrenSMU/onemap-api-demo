@@ -10,4 +10,5 @@ Demo includes:
 2. How to call Rest APIS (Coordinates conversion and Search function)
 
 # Notes
-This code requires network access to onemap's api, either on an internet machine or on a GSIB with allowed access to onemap
+1. This code requires network access to onemap's api, either on an internet machine or on a GSIB with allowed access to onemap
+2. WMTS map layers are in EPSG 3857 format. Although it is meant to work with ipyleaflet, the coordinates are not lat,long.
