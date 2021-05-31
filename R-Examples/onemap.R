@@ -6,8 +6,7 @@
 #   2. Calling Onemap's tile service API using the leaflet package
 #   3. Calling Onemap's tile service API using the leaflet package (Web Map Tile Service)
 #   4. EPSG coordinate conversion
-#   5. Reverse geocode
-#   6. Search
+#   5. Search
 #
 #
 #################################################################################################################################
